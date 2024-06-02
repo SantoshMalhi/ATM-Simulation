@@ -60,7 +60,7 @@ python atm_simulation.py
 
 ## 🌟 Let's Connect:
 
-- **Connect on LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/santoshkumarsk/)
+- **Connect on LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/santoshkumarsk/)
 - **Explore more projects:** [GitHub Profile](https://github.com/SantoshMalhi)
 
 Ready to dive into the world of ATM operations? Let's code our way to a better understanding of financial systems and enhance our Python skills!
